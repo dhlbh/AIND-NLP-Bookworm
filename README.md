@@ -40,6 +40,10 @@ Then follow the instructions in the notebook.
 
 * Create Watson > Discovery service https://console.bluemix.net/dashboard/watson?env_id=ibm:yp:au-syd
 
+## Troubleshooting
+
+* Fix error `WatsonException: Error: Unsupported Media Type, Code: 415` by modifying the file mentioned [here](https://github.com/watson-developer-cloud/python-sdk/pull/223)
+
 ## Tasks
 
 Complete each task in the notebook by implementing or modifying code wherever there is a `TODO` comment in a code cell, and answering any inline questions by modifying markdown cells. E.g.:
