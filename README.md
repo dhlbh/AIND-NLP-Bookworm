@@ -22,6 +22,8 @@ Then follow the instructions in the notebook.
 
 **Note**: You may have to install some packages (mentioned in the notebook). To do so, simply open another terminal and use pip.
 
+	`pip install -r requirements.txt`
+
 ## Tasks
 
 Complete each task in the notebook by implementing or modifying code wherever there is a `TODO` comment in a code cell, and answering any inline questions by modifying markdown cells. E.g.:
