@@ -22,7 +22,23 @@ Then follow the instructions in the notebook.
 
 **Note**: You may have to install some packages (mentioned in the notebook). To do so, simply open another terminal and use pip.
 
-	`pip install -r requirements.txt`
+	`pip3 install -r requirements.txt`
+
+## Bluemix
+
+* Demo https://discovery-news-demo.mybluemix.net/
+* Watson Discovery Python API https://www.ibm.com/watson/developercloud/discovery/api/v1/?python
+* Watson Discovery Docs https://www.ibm.com/watson/developercloud/doc/discovery/index.html
+* Watson Python SDK https://github.com/watson-developer-cloud/python-sdk
+* Watson Discovery Guide https://www.ibm.com/watson/developercloud/doc/discovery/getting-started-tool.html
+
+* Sign up to Bluemix 30 day free trial or eligible student https://console.bluemix.net/registration/
+
+* Create Org Name and Space:
+	Org name: <username>
+	Space name: dev
+
+* Create Watson > Discovery service https://console.bluemix.net/dashboard/watson?env_id=ibm:yp:au-syd
 
 ## Tasks
 
